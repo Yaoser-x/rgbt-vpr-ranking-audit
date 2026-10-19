@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this analysis software. A fixed-version numerical archive DOI will be added when available."
+title: "Frozen-distance reconstruction of RGB-thermal place-recognition ranking limits"
+type: software
+authors:
+  - family-names: Yu
+    given-names: Shuo
+    affiliation: "School of Electronic Information and Electrical Engineering, Chengdu University"
+license: MIT
+abstract: "Reconstruction and exact auditing from frozen RGB/thermal distances, geographic labels, candidate IDs and archived predictions. No new feature extraction or training is performed."
+keywords:
+  - visual place recognition
+  - RGB-thermal fusion
+  - ranking capability
+  - reproducibility
