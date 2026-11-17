@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+payload/
+expected/
+reference/
+source_data/
+results/
+output/
+INPUT_MANIFEST.json
+*.npz
+*.zip
